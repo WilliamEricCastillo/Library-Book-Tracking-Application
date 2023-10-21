@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+
+
+.page-link {
+    color: white;
+    text-decoration: none;
+    padding: 5px 40px 40px;
+}
+
+.page-link:hover {
+    color: blue;
+}
